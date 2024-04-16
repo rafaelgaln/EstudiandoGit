@@ -1,3 +1,9 @@
+/**
+ * @author Rafael
+ * @since 1.0
+ * @see clases.Persona
+ */
+
 public class Main {
 
     public static void main(String[] args) {
